@@ -1,0 +1,45 @@
+- [ ] [[Allgemeines zu Formale Sprachen]]
+	- Sprache
+	- Grammatik
+	- Alphabet
+	- Bestandteile einer Grammatik
+- [ ] [[Formale Sprachen und NLP]]
+	- Einordnung
+- [ ] [[Chomsky-Hierarchie]]
+	- Beschreiben
+	- Beispielsprachen
+- [ ] [[Reguläre Ausdrücke]]
+	- Wörter erzeugen
+	- Syntaxbaum erstellen
+- [ ] [[Kontextfreie Sprachen]]
+	- Wörter erzeugen
+	- Syntaxbaum erstellen
+- [ ] [[Kontextsensitive Sprachen]]
+	- Wörter erzeugen
+	- Syntaxbaum erstellen
+- [ ] [[Chomsky-Normalform]]
+	- Produktionsregeln normalisieren und umformen
+- [x] [[Backus-Naur-Form]]
+	- Umformungsregeln kennen
+- [x] [[Pumping Lemma]]
+	- Allgemeine Beschreibung
+	- Erklären können, was Pumping Lemma ist
+	- Pumping Lemma **nicht** anwenden
+	- Für welche Sprachen anwendbar 
+	- Negativbeweis
+	- Wort nach den Regeln des Pumping Lemmas bilden, Wort befindet sich dann nicht mehr in Sprache
+	- -> Sprache kann nicht regulär sein
+- [x] [[CYK-Algorithmus]]
+	- Wortproblem lösen
+	- 
+- [ ] [[Allgemeines zu Automaten]]
+	- Aufbau
+	- Bedeutung
+
+**Noch nicht behandelt:**
+- [ ] ~~[[Turing Maschine]]~~
+	- Allgemeines
+	- Bedeutung
+- [ ] [[Endliche Automaten]]
+	- Automaten abgrenzen und erstellen
+
