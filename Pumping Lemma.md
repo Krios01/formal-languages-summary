@@ -1,5 +1,5 @@
 # Allgemein
-- Pumping Lemma ist für ==reguläre Sprachen==, ==kontextfreie Sprachen== anwendbar
+- Pumping Lemma ist für ==kontextfreie Sprachen== und ==reguläre Sprachen== anwendbar, also Typ-2 und Typ-3 Sprachen
 ### Vorgehen 
 - Das gegebene Wort aufteilen und den mittleren Teil "aufpumpen"
 - Aufteilung unterscheidet sich zwischen regulären und kontextfreien Sprachen

@@ -23,7 +23,7 @@ Auf der rechten Seite stehen:
 - genau zwei Variablen oder 
 - genau ein Terminalzeichen
 
-### Anwendungsfall der Chomky-Normalform:
+### Anwendungsfall der Chomsky-Normalform:
 - Beweisführung CYK-Algorithmus
 - Beweisführung Pumping Lemma
 

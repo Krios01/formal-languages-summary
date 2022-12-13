@@ -1,11 +1,11 @@
-- [ ] [[Allgemeines zu Formale Sprachen]]
+- [x] [[Allgemeines zu Formale Sprachen]]
 	- Sprache
 	- Grammatik
 	- Alphabet
 	- Bestandteile einer Grammatik
-- [ ] [[Formale Sprachen und NLP]]
+- [ ] [[Formale Sprachen und NLP]] ==wegoptimiert==
 	- Einordnung
-- [ ] [[Chomsky-Hierarchie]]
+- [x] [[Chomsky-Hierarchie]]
 	- Beschreiben
 	- Beispielsprachen
 - [ ] [[Reguläre Ausdrücke]]
@@ -17,7 +17,8 @@
 - [ ] [[Kontextsensitive Sprachen]]
 	- Wörter erzeugen
 	- Syntaxbaum erstellen
-- [ ] [[Chomsky-Normalform]]
+- [ ] [[Aufgaben]]
+- [x] [[Chomsky-Normalform]]
 	- Produktionsregeln normalisieren und umformen
 - [x] [[Backus-Naur-Form]]
 	- Umformungsregeln kennen
@@ -31,15 +32,14 @@
 	- -> Sprache kann nicht regulär sein
 - [x] [[CYK-Algorithmus]]
 	- Wortproblem lösen
-	- 
-- [ ] [[Allgemeines zu Automaten]]
+- [x] [[Allgemeines zu Automaten]]
 	- Aufbau
 	- Bedeutung
+- [ ] [[Endliche Automaten]]
+	- Automaten abgrenzen und erstellen
 
 **Noch nicht behandelt:**
 - [ ] ~~[[Turing Maschine]]~~
 	- Allgemeines
 	- Bedeutung
-- [ ] [[Endliche Automaten]]
-	- Automaten abgrenzen und erstellen
 
