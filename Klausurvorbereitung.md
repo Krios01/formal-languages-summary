@@ -8,16 +8,18 @@
 - [x] [[Chomsky-Hierarchie]]
 	- Beschreiben
 	- Beispielsprachen
-- [ ] [[Reguläre Ausdrücke]]
+- [ ] Reguläre Ausdrücke
+	-> Aufgaben: [[Aufgaben#Reguläre Sprache]]
 	- Wörter erzeugen
 	- Syntaxbaum erstellen
-- [ ] [[Kontextfreie Sprachen]]
+- [ ] Kontextfreie Sprachen
+	-> Aufgaben: [[Aufgaben#Kontextfreie Sprache]]
 	- Wörter erzeugen
 	- Syntaxbaum erstellen
-- [ ] [[Kontextsensitive Sprachen]]
+- [ ] Kontextsensitive Sprachen
+	-> Aufgaben: [[Aufgaben#Kontextsensitive Sprache]]
 	- Wörter erzeugen
 	- Syntaxbaum erstellen
-- [ ] [[Aufgaben]]
 - [x] [[Chomsky-Normalform]]
 	- Produktionsregeln normalisieren und umformen
 - [x] [[Backus-Naur-Form]]
