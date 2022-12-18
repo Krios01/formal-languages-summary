@@ -20,8 +20,10 @@
 ![[Pasted image 20221213185222.png]]
 - Ableitung des Wortes $aaabbbccc$
 - Syntaxbaum
-### 20221216_Uebungen, Seite 6
+### [[20221216_Uebungen.pdf]], Seite 6
 ![[Pasted image 20221216083414.png]]
+Aufgabe:
+Erzeugen Sie eine reduzierte Grammatik, die nur 3 Nonterminale besitzt und die gleiche Sprache erzeugt 
 
 Lösung:
 $$
