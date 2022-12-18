@@ -37,7 +37,7 @@
 - [x] [[Allgemeines zu Automaten]]
 	- Aufbau
 	- Bedeutung
-- [ ] [[Endliche Automaten]]
+- [ ] Endliche Automaten -> [[Allgemeines zu Automaten]]
 	- Automaten abgrenzen und erstellen
 
 **Noch nicht behandelt:**
